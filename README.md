@@ -16,3 +16,7 @@ Dungeon Generator: Text based dungeon generation
 Snake: Classic coding project
 
 One-time pad message encoder: not for anything serious
+
+FizzBuzz: Small/Simple game that I got off a Tom Scott video
+
+Arduino Projects: Once I get one
